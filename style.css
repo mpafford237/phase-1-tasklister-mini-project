@@ -14,6 +14,24 @@ button {
   font-size: 7px;
 }
 
+.delete-button {
+  font-size: 12px;
+  padding: 2px 5px;
+  margin-left: 5px;
+}
+
+.high {
+  color: red
+}
+
+.medium {
+  color: orange
+}
+
+.low {
+  color: green
+}
+
 #main-content {
   position: relative;
   display: flex;
